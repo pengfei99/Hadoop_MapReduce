@@ -1,0 +1,3 @@
+org/pengfei/WordCountMapper.class
+org/pengfei/WordCountReducer.class
+org/pengfei/WordCount.class
